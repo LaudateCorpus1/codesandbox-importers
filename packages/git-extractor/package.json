@@ -64,7 +64,7 @@
     "babel-traverse": "^6.26.0",
     "babylon": "^6.18.0",
     "base-64": "^0.1.0",
-    "debug": "^2.6.8",
+    "debug": "^3.1.0",
     "gitignore-parser": "^0.0.2",
     "humps": "CompuIves/humps",
     "istextorbinary": "^2.1.0",
